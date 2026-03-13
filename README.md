@@ -184,7 +184,7 @@ The application shows:
 * 3D roof slope detection
 * City-scale solar potential analysis
 * Mobile application support
-* Government subsidy calculation
+* Government subsidy calculation   
 
 ---
 
@@ -200,3 +200,4 @@ Project: **SolarScope – AI Powered Rooftop Solar Potential Analyzer**
 # 📜 License
 
 This project is developed for educational and research purposes.
+
